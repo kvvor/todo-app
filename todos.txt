@@ -1,13 +1,8 @@
 add a new player
 Update the OS
-add a new member
-add a new member
+Buy plants
 Buy a camera
 Make soup
-Clean the code
-something
-why
-why it's working
-wtf
-We just made a default arg
-Master python!
+Clean the program
+My newest todo is added
+And lastly
